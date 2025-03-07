@@ -21,10 +21,10 @@ packages:
     dependency: "direct main"
     description:
       name: bottom_picker
-      sha256: ada29929c1e3e5fe23f0d2d1a143c44b810c5f9527fcd981c423efc8d4c06099
+      sha256: b79a49ab6e6b3e8b4b4f17312009b0255ba3db46279d3267b65aa84936812465
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "2.11.1"
+    version: "2.11.2"
   characters:
     dependency: transitive
     description:
